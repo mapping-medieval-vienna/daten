@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title type="main">Gewerbuch C 1420-1437</title>
 			</titleStmt>
 			<publicationStmt>
-				<publisher></publisher>
+				<publisher />
 			</publicationStmt>
 			<seriesStmt>
 				<title>Mapping Medieval Vienna</title>
@@ -146,7 +147,7 @@ E1: kaufen das Haus
 Dorothe + Jacob der Egprecht
 E2: er kauft das Burgrecht auf das Haus
 E3: vererbt das Burgrecht an Dorothe
---> Dann hat Dorothe ein Burgrecht auf ihrem eigenen Haus ??
+--&gt; Dann hat Dorothe ein Burgrecht auf ihrem eigenen Haus ??
 Dorothe + Hanns der Sybenwurger
 				</ab>
 			</div>
@@ -7934,7 +7935,8 @@ Actum an Freitag nach dem Auffarttag Anno domini etc. xxviᵗº
 			</div>
 
 			<div type="entry" n="158-6">
-				<ab type="formular">
+				<note type="kommentar">B</note>
+			<ab type="formular">
 ⒶMargreth Merten des Scherer hausfraw 
 ⓗhat gevangen nucz und gewer 
 
@@ -7959,7 +7961,8 @@ Item die vorgenant Margret hat des egenant Wolfgangen Irs vettern tail hauss gek
 			</div>
 
 			<div type="entry" n="159-1">
-				<ab type="formular">
+				<note type="kommentar">A</note>
+			<ab type="formular">
 ⒶWolfgang Thomans des kramer an der prantstat seligen Sun 
 ⓗhat gevangen nucz und gewer 
 

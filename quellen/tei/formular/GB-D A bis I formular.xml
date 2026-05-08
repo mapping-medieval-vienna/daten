@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt><title type="main">Gewerbuch D 1438-1473</title></titleStmt>
-			<publicationStmt><publisher></publisher></publicationStmt>
+			<publicationStmt><publisher /></publicationStmt>
 			<seriesStmt><title>Mapping Medieval Vienna</title></seriesStmt>
 			<sourceDesc>
 				<bibl><title type="main">Gewerbuch D 1438-1473</title>
@@ -2154,7 +2155,7 @@ Larencz habet cedulam
 				</ab>
 				<ab type="kommentar">
 Anthoni Haiman ⚭ 
-Cristans Gurman ⚭ Anna --> Margret
+Cristans Gurman ⚭ Anna --&gt; Margret
 				</ab>
 			</div>
 
@@ -5941,7 +5942,8 @@ vendiderunt purkrecht ccc Ixiii folio
 			</div>
 
 			<div type="entry" n="0058-2">
-				<ab type="formular">
+				<note type="kommentar">B</note>
+			<ab type="formular">
 ⒶAnna Jacoben des Kagrer Munsser hausfrau 
 ⓗhat emphangen nucz und gewer 
 
@@ -12319,7 +12321,8 @@ vendidit purkrecht folio 55
 			</div>
 
 			<div type="entry" n="0135-2">
-				<ab type="formular">
+				<note type="kommentar">ab hier nur noch 1/3, nämlich Teil A</note>
+			<ab type="formular">
 ⒶChuncz vasczieher und Anna sein hausfraw 
 ⓗhabent emphangen nucz und gewer 
 
@@ -16659,7 +16662,8 @@ obligaverunt folio lxv
 			</div>
 
 			<div type="entry" n="0177-1">
-				<ab type="formular">
+				<note type="kommentar">B</note>
+			<ab type="formular">
 ⒶBarbara Oswalden des Puchperger hausfrau 
 die emalen Wolfgangen Mautter ze Nusdorff seligen auch eelichen gehabt hat 
 und Anna Jacoben des Kagrer Munsser hausfraw Ir swester 
@@ -23023,7 +23027,8 @@ obtinuit libro C folio 104
 			</div>
 
 			<div type="entry" n="0267-1">
-				<ab type="formular">
+				<note type="kommentar">A</note>
+			<ab type="formular">
 ⒶElspet Hannsen Een des floczer hausfrau 
 die emaln Dietrichen keser auch eelichen gehabt hat 
 und Wolfgang Mautter des benant Dietrich keser Enenkl 
@@ -23847,7 +23852,8 @@ Anno etc. lxviiᵐº
 				</head>
 
 			<div type="entry" n="0275-2">
-				<ab type="formular">
+				<note type="kommentar">A</note>
+			<ab type="formular">
 ⒶElspeth Hannsen Een des floczer hausfraw 
 die vormalen Dietreichen keser seligen auch elichen gehabt 
 ⓗhat emphangen nucz und gwer 
@@ -26010,7 +26016,8 @@ Actum an Phincztag vor allerheiligen tag Anno domini etc. lxxiiiº
 			</div>
 
 			<div type="entry" n="0297-5">
-				<ab type="formular">
+				<note type="kommentar">A</note>
+			<ab type="formular">
 ⒶHanns Herbartt vor Kernertor mitburger zu Wienn 
 ⓗhat emphangen nucz und gwer 
 
@@ -54449,7 +54456,8 @@ ut littera sonat
 			</div>
 
 			<div type="entry" n="0592-4">
-				<ab type="formular">
+				<note type="kommentar">B</note>
+			<ab type="formular">
 ⒶJacob Kagrer der Munnsser mitburger zu Wienn 
 ⓗhat emphanngen nucz und geweer 
 

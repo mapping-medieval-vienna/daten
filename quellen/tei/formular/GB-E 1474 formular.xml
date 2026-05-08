@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt><title type="main">Gewerbuch E 1474-1517</title></titleStmt>
-			<publicationStmt><publisher></publisher></publicationStmt>
+			<publicationStmt><publisher /></publicationStmt>
 			<seriesStmt><title>Mapping Medieval Vienna</title></seriesStmt>
 			<sourceDesc>
 				<bibl>
@@ -30,8 +31,8 @@ fol. I, II, 1-76, 78-388, 390-725
 			</head>
 
 <head>
-		<lb/>Renovirt
-		<lb/>1569
+		<lb />Renovirt
+		<lb />1569
 </head>
 
 			<div type="section-temporal">
@@ -4322,7 +4323,8 @@ darInn Ulrich Gundloch und Kristina sein hausfrau nucz und gwer geschriben stent
 			</div>
 
 			<div type="entry" n="0047-2">
-				<ab type="formular">
+				<note type="kommentar">B</note>
+			<ab type="formular">
 ⒶSusanna Karl des Rumpl seligen witib 
 ⓗhat emphangen nucz und gwer 
 
@@ -4346,7 +4348,8 @@ nach lautt Irer beweisten frewntschaft die im Statpuch zu Wienn geschriben stet
 			</div>
 
 			<div type="entry" n="0047-3">
-				<ab type="formular">
+				<note type="kommentar">B</note>
+			<ab type="formular">
 ⒶHanns Wienner burger zu Wienn 
 ⓗhat emphangen nucz und gwer 
 
@@ -4368,7 +4371,8 @@ nach lautt ains ubergab und aufsand briefs darumb ausgangen den der obgnant Wien
 			</div>
 
 			<div type="entry" n="0047-4">
-				<ab type="formular">
+				<note type="kommentar">B</note>
+			<ab type="formular">
 ⒶElspeth Hannsen Wienner burger zu Wienn hausfrau 
 ⓗhat emphangen nucz und gwer 
 
@@ -5171,7 +5175,8 @@ mit der Stat davon leiden als ander mitburger daselbs ungeverlich
 			</div>
 
 			<div type="entry" n="0057-1">
-				<ab type="formular">
+				<note type="kommentar">B</note>
+			<ab type="formular">
 ⒶMichel Regenstorff der kursner und Barbara sein hausfraw 
 ⓗhabnt emphangen nucz und gewer 
 
@@ -18271,7 +18276,8 @@ Actum an Mitichen vor Reminiscere in der vasten Anno etc. lxxx
 			</div>
 
 			<div type="entry" n="0204-2">
-				<ab type="formular">
+				<note type="kommentar">A</note>
+			<ab type="formular">
 ⒶAgnes Hannsen Herbart weilent gesessen vor Kernertor mitburger zu Wienn seligen witib 
 ⓗhat emphangen nucz und gwer 
 
@@ -47584,7 +47590,8 @@ ut littera sonnat
 			</div>
 
 			<div type="entry" n="0512-2">
-				<ab type="formular">
+				<note type="kommentar">B</note>
+			<ab type="formular">
 ⒶNiclas Gwar kursner mitburger zu Wienn und Barbara sein hausfraw 
 habenn enpfanngenn nucz unnd gewer 
 
@@ -47616,7 +47623,8 @@ vendiderunt purkrecht novo E folio 104
 			</div>
 
 			<div type="entry" n="0512-3">
-				<ab type="formular">
+				<note type="kommentar">A</note>
+			<ab type="formular">
 ⒶNiclas Gwar kursner mitburger zu Wienn und Barbara sein hausfraw 
 ⓗhaben enpfanngn nucz und gwer 
 

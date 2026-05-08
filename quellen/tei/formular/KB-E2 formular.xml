@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title type="main">Kaufbuch E2 1420-1437</title>
 			</titleStmt>
 			<publicationStmt>
-				<publisher></publisher>
+				<publisher />
 			</publicationStmt>
 			<seriesStmt>
 				<title>Mapping Medieval Vienna</title>

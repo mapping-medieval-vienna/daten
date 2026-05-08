@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt><title type="main">Gewerbuch E 1474-1517</title></titleStmt>
-			<publicationStmt><publisher></publisher></publicationStmt>
+			<publicationStmt><publisher /></publicationStmt>
 			<seriesStmt><title>Mapping Medieval Vienna</title></seriesStmt>
 			<sourceDesc>
 				<bibl>
@@ -1653,10 +1654,10 @@ nach lautt ains brriefs darumb vorhannden
 7 s. 7 d.ⓟSumma vii s. vii d.
 				</ab>
 				<ab type="kommentar">
-Cristan Heryb Burger zu Odemburg ⚭ Magdalen --> Ulrich, Barbara, Margreth †
+Cristan Heryb Burger zu Odemburg ⚭ Magdalen --&gt; Ulrich, Barbara, Margreth †
 Jacob Pilsner ⚭ -"-
 
-Hanns Koppl ⚭ Margreth --> Steffan
+Hanns Koppl ⚭ Margreth --&gt; Steffan
 
 ***
 Cristan Heryb ⚭ Magdalen
@@ -11429,7 +11430,7 @@ und der Caplan zu sannd Peter dem dann das Burkhrecht darauf verschriben ist
 umb die versessen dinst die Im Sibn Jar ausgestannden sein xxiiii tl. d. 
 und dann xxvi tl. d. zu hannden der die dar zu gechtigkait vermainen zuhaben bey dem Buch erlegt 
 und die ubermass xlv tl. d. in saczweiss widerumb auf demselben haws verschriben worden
-195 - 40 - 24 - 26 - 45 = 60 --> das passt noch nichtⓀ
+195 - 40 - 24 - 26 - 45 = 60 --&gt; das passt noch nichtⓀ
 				</ab>
 			</div>
 
@@ -12977,8 +12978,8 @@ Obligavit libro Novo E folio 158
 habet nunc Hanns Wuehar Khunigund uxor
 				</ab>
 				<ab type="kommentar">
-Thoman Lanngwiser der vischer mitburger zu Wienn ⚭ Katherina --> Dorothee, Elzabeth
-Hanns Heindl ⚭ Katherina --> Agnes
+Thoman Lanngwiser der vischer mitburger zu Wienn ⚭ Katherina --&gt; Dorothee, Elzabeth
+Hanns Heindl ⚭ Katherina --&gt; Agnes
 Katherina stirbt; Dorothee, Elzabeth, Agnes erben 
 (Hanns lebt noch, Dorothee, Elzabeth sind verheiratet, Agnes ist minderjährig)
 verkaufen an Cirfus und Anna
@@ -14627,9 +14628,9 @@ doch das von dem haws gelittn werde als von anndern Burgers hewsern hie
 12 s.ⓟSumma xii s. d.
 				</ab>
 				<ab type="kommentar">
-Hanns Grym ⚭ Barbara 1 --> Pangretz, Magdalena (⚭ Urban Franncz der khursner †)
+Hanns Grym ⚭ Barbara 1 --&gt; Pangretz, Magdalena (⚭ Urban Franncz der khursner †)
 haben Haus
-Hanns Grym ⚭ Barbara 2 --> Mertt, Niclass, Elizabeth (⚭ Mertt Schiessen zu Nyderlewss)
+Hanns Grym ⚭ Barbara 2 --&gt; Mertt, Niclass, Elizabeth (⚭ Mertt Schiessen zu Nyderlewss)
 Hälfte von Hanns vererbt an alle Kinder
 Hälfte von Barbara 1 vererbt an Pangretz, Magdalena
 also: Pangretz, Magdalena je 35%, Mertt, Niclass, Elizabeth je 10%
@@ -14700,7 +14701,7 @@ doch das davon mit gemainer Stat davon gelittenn werde Als von anndern burgers h
 obligavit libro Novo E folio 163
 				</ab>
 				<ab type="kommentar">
-Barbara ⚭ Wolfganng Kern --> Anne (⚭ x Panhalm)
+Barbara ⚭ Wolfganng Kern --&gt; Anne (⚭ x Panhalm)
 Barbara ⚭ Jheronimus Eczlinger
 haben Haus
 Barbara vererbt ihre Hälfte an Anne
@@ -15329,7 +15330,7 @@ doch das mit gemainer Stat Wienn davon gelitten werd als von anndern Burgers hew
 72 d.ⓟSumma lxxii d.
 				</ab>
 				<ab type="kommentar">
-Magdalena ⚭ ? Lengenlaher --> Benedict Lengenlaher
+Magdalena ⚭ ? Lengenlaher --&gt; Benedict Lengenlaher
 Magdalena ⚭ Pauln Tuchler
 Magdalena hat ein Haus
 vererbt es an Benedict, besitzt das Haus allein
@@ -15622,7 +15623,7 @@ ut littera sonat
 3 s. 10 d.ⓟSumma iii s. x d.
 				</ab>
 				<ab type="kommentar">
-Hanns Mayrhofer 1 der peck ⚭ ? (wohl eine Schwester von Hanns 3) --> Hanns Mayrhofer 2
+Hanns Mayrhofer 1 der peck ⚭ ? (wohl eine Schwester von Hanns 3) --&gt; Hanns Mayrhofer 2
 Katherina ⚭ Hanns 3 Furnstain der peckh, keine (überlebenden) Kinder
 Katherina und Hanns 3 haben ein Haus
 Hanns 3 vererbt seine Hälfte an Hanns 2, einen Verwandten von ihm (nicht sein Sohn)
@@ -28872,7 +28873,7 @@ doch das mit der Stat Wienn davon geliten werde als von anndern Burgersheusern d
 7 s. 6 d.ⓟSumma vii s. vi d.
 				</ab>
 				<ab type="kommentar">
-Leonhart Noytz ⚭ Magdalena --> Cristoff, Sebastian 
+Leonhart Noytz ⚭ Magdalena --&gt; Cristoff, Sebastian 
 Leonhart vererbt je 1/3 seiner Hälfte an Magdalena, Cristoff, Sebastian 
 also: Magdalena 2/3, Cristoff 1/6, Sebastian 1/6
 Magdalena vererbt je 1/3 ihres Anteils an Cristoff, Sebastian, Veronica (⚭ Hanns Tscherte)
