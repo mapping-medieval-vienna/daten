@@ -2,9 +2,6 @@
 
 Website und online-Edition: https://mapping-medieval-vienna.github.io/
 
-Das Daten-Repository ist eine aufgeräumte und vervollständigte Version des alten Daten-Repository unter 
-https://github.com/medieval-vienna/gesamt.
-
 geplante Struktur:
 
 ```
