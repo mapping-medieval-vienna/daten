@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt><title type="main">Gewerbuch D 1438-1473</title></titleStmt>
-			<publicationStmt><publisher /></publicationStmt>
+			<publicationStmt><publisher></publisher></publicationStmt>
 			<seriesStmt><title>Mapping Medieval Vienna</title></seriesStmt>
 			<sourceDesc>
 				<bibl><title type="main">Gewerbuch D 1438-1473</title>
@@ -3907,12 +3906,11 @@ Anno xxxiiiiiº
 				</head>
 
 			<div type="entry" n="0662-1">
-				<note type="kommentar">ab hier nur 1/3, nämlich Teil B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶLyenhart Unger der Sneyder und Dorothe sein hausfraw 
 habent In und Irn baiden erben emphangen nucz und gwer 
 
-DB5037bⓄAins drittail hauss 
+DB5042ⓄAins drittail hauss 
 WiltwerkerstraßeⓁgelegen in der Wiltwerherstrass 
 Gässlein gegenüber Otto und HaimoⓁneben dem Gesslein gegen hern Otten und Haymen Cappellen uber 
 Ⓝzenagst Kunczen des vasczieher haws 
@@ -17900,7 +17898,6 @@ die in demselben Ramhof gelegen und mit Schinteln gedekcht gewesen sind
 und mit allen den gemechen die darInn sein 
 und ain Gemawrts gertl hinden daran gegen der Rinkhmawr uber 
 
-
 darumb vormaln die vorgenant Ursula und Martha Ir tochter 
 die Si pey weilent Micheln payr irm erern Mann elichen gehabt hat 
 nucz und gwer geschriben gestanden sein 
@@ -18675,8 +18672,7 @@ ipsa habet cedulam
 			</div>
 
 			<div type="entry" n="0803-2">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶJunkfraw Margreth Hannsen Kaschawer des Maler mitburger zu Wienn tochter 
 ⓗhat emphangen nucz und gwer 
 
@@ -19511,7 +19507,7 @@ obtinuit folio 322
 ⒶNiclas Rogner 
 ⓗhat emphangen nucz und gewer 
 
-DB5058Ⓞains gewantkeller 
+DB5048Ⓞains gewantkeller 
 unter den TuchscherernⓁgelegen undern Tuchscherern 
 under Hannsen des Sweblein haus 
 Ⓝzenagst Hansen des Ravenspurger gewant keller 
@@ -27406,7 +27402,7 @@ BognergasseⓁgelegen in der Pognerstrass
 DB0079Ⓝzwischen Mertten Gruber 
 DB0081Ⓝund Steffans leisser der pogner hewser 
 
-Ⓞund des hindern gemaurten stokchs 
+DB0082Ⓞund des hindern gemaurten stokchs 
 hinter St. PankrazⓁder da stosst an das gessl hinder sand Pangreczen 
 Ⓝauch gelegen zwischen des benant Mertten Gruber 
 Ⓝund Jacoben Prennberger des Messrer hewsern 
@@ -33002,7 +32998,7 @@ ut liber Civitatis sonat
 ⒶSteffan Linharts Unger des sneider seligen sun 
 ist nucz und gewer pracht worden 
 
-DB5037bⓄAins halben hauss 
+DB5042ⓄAins halben hauss 
 Otto und Haimo, WiltwerkerstraßeⓁganczes gelegen in der Wiltwerherstrass 
 gegen hern Otten und Haymen cappellen uber 
 Ⓝam egk zenagst dem gesslein an aim tail 
@@ -36604,7 +36600,7 @@ Haidler habet cedulam
 Dyeselbzeit Wolfgang Rueland und sein nachkomen Spitalmaister daselbs zu hannden desselben Spitals 
 ⓗhat emphangen nucz und gewer 
 
-DB5058ⓄAins Gwanntkeler 
+DB5048ⓄAins Gwanntkeler 
 unter den TuchscherernⓁgelegen undern Tuchscherern 
 under Paulen dekher hawss 
 Ⓝzunagst Hannsen Ravenspurger Gwanntkeller 
@@ -42802,12 +42798,16 @@ ut (i) libro Novo E 662
 ⒶUlreich Stadelmair der verber 
 ⓗhat empfangen nucz und gewer 
 
-DB5220Ⓞzwair hewser nebeneinander gelegen 
-Hohe Brücke, WiltwerkerstraßeⓁains 
-Ⓝzenagst der Hohenprugk in der Wiltwerherstrass 
-und das ander daran zenagst Petern hartpekchen des verber haws 
+zwair hewser nebeneinander gelegen 
 
-Als dieselben hewser von Dorothen Mertten Newnburger des verber hausfrawn 
+DB5044Ⓞains 
+Hohe Brücke, WiltwerkerstraßeⓁzenagst der Hohenprugk in der Wiltwerherstrass 
+
+DB5045Ⓞund das ander daran 
+zenagst Petern hartpekchen des verber haws 
+
+Als dieselben hewser 
+von Dorothen Mertten Newnburger des verber hausfrawn 
 350 tl.Ⓟumb virdhalbhundert pfunt pfenning 
 mit kauff an In komen sind 
 
@@ -47535,7 +47535,7 @@ obtinuit residuum folio 471 (prmal eer it)
 ⒶWolfgang aufm Winkchel der sneider 
 ⓗhat emphangen nucz und gewer 
 
-DB5037bⓄains hawss 
+DB5042Ⓞains hawss 
 Otto und Haimo, WiltwerkerstraßeⓁgelegen in der Wildwercherstrass 
 gegen hern Otten und Haymen Cappellen uber an ainem tail 
 Ⓝund mit dem andern zenagst Kunczen des vascziecher haws 

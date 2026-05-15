@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt><title type="main">Gewerbuch E 1474-1517</title></titleStmt>
-			<publicationStmt><publisher /></publicationStmt>
+			<publicationStmt><publisher></publisher></publicationStmt>
 			<seriesStmt><title>Mapping Medieval Vienna</title></seriesStmt>
 			<sourceDesc>
 				<bibl>
@@ -1654,10 +1653,10 @@ nach lautt ains brriefs darumb vorhannden
 7 s. 7 d.ⓟSumma vii s. vii d.
 				</ab>
 				<ab type="kommentar">
-Cristan Heryb Burger zu Odemburg ⚭ Magdalen --&gt; Ulrich, Barbara, Margreth †
+Cristan Heryb Burger zu Odemburg ⚭ Magdalen --> Ulrich, Barbara, Margreth †
 Jacob Pilsner ⚭ -"-
 
-Hanns Koppl ⚭ Margreth --&gt; Steffan
+Hanns Koppl ⚭ Margreth --> Steffan
 
 ***
 Cristan Heryb ⚭ Magdalen
@@ -11430,7 +11429,7 @@ und der Caplan zu sannd Peter dem dann das Burkhrecht darauf verschriben ist
 umb die versessen dinst die Im Sibn Jar ausgestannden sein xxiiii tl. d. 
 und dann xxvi tl. d. zu hannden der die dar zu gechtigkait vermainen zuhaben bey dem Buch erlegt 
 und die ubermass xlv tl. d. in saczweiss widerumb auf demselben haws verschriben worden
-195 - 40 - 24 - 26 - 45 = 60 --&gt; das passt noch nichtⓀ
+195 - 40 - 24 - 26 - 45 = 60 --> das passt noch nichtⓀ
 				</ab>
 			</div>
 
@@ -11637,7 +11636,7 @@ fecit dotalicium uxori ut libro Novo E folio 157
 ⒶHanns Kirchperger mitburger zu Wienn und Anna sein hawsfraw 
 ⓗhaben Emphanngen Nucz und gwer
 
-DB5037cⓄains drittail hawss das mit ziegln gedekht ist 
+DB5043Ⓞains drittail hawss das mit ziegln gedekht ist 
 SchiltergasseⓁim Schiltergesslein 
 DB1053Ⓝgegen Jacobs von Velach hawss uber 
 Ⓝzunagst Micheln des Tuchscherer haws an aim tail 
@@ -12978,8 +12977,8 @@ Obligavit libro Novo E folio 158
 habet nunc Hanns Wuehar Khunigund uxor
 				</ab>
 				<ab type="kommentar">
-Thoman Lanngwiser der vischer mitburger zu Wienn ⚭ Katherina --&gt; Dorothee, Elzabeth
-Hanns Heindl ⚭ Katherina --&gt; Agnes
+Thoman Lanngwiser der vischer mitburger zu Wienn ⚭ Katherina --> Dorothee, Elzabeth
+Hanns Heindl ⚭ Katherina --> Agnes
 Katherina stirbt; Dorothee, Elzabeth, Agnes erben 
 (Hanns lebt noch, Dorothee, Elzabeth sind verheiratet, Agnes ist minderjährig)
 verkaufen an Cirfus und Anna
@@ -13350,7 +13349,7 @@ Bognergasse, hinter St. PankrazⓁhinder sannd Pangreczen
 DB0079Ⓝzunagst Merten Gruber 
 DB0081Ⓝund Stephans Leysser der pogner 
 
-Ⓞund ains gemawrten Stokhs 
+DB0082Ⓞund ains gemawrten Stokhs 
 hinter St. PankrazⓁder da stosst in das Gessl hinder sannd Pangreczen 
 Ⓝzwischen des benanten Gruber 
 Ⓝund Jacoben Prennberger des Messrer hewsern gelegen 
@@ -13377,7 +13376,7 @@ DB0080Ⓞaines hawss
 hinter St. PankrazⓁhinder sannd Pangreczen 
 Ⓝzwischen Merten Gruber und Stephans Leysser der pogner 
 
-Ⓞauch des hindern gemawrten in Stokhs 
+DB0082Ⓞauch des hindern gemawrten in Stokhs 
 hinter St. PankrazⓁder da stosst an das Gessl hinder sannd Pangreczen 
 Ⓝzwischen des benannten Gruber und Jacoben Prennberger des Messrer hewsern gelegen 
 
@@ -14628,9 +14627,9 @@ doch das von dem haws gelittn werde als von anndern Burgers hewsern hie
 12 s.ⓟSumma xii s. d.
 				</ab>
 				<ab type="kommentar">
-Hanns Grym ⚭ Barbara 1 --&gt; Pangretz, Magdalena (⚭ Urban Franncz der khursner †)
+Hanns Grym ⚭ Barbara 1 --> Pangretz, Magdalena (⚭ Urban Franncz der khursner †)
 haben Haus
-Hanns Grym ⚭ Barbara 2 --&gt; Mertt, Niclass, Elizabeth (⚭ Mertt Schiessen zu Nyderlewss)
+Hanns Grym ⚭ Barbara 2 --> Mertt, Niclass, Elizabeth (⚭ Mertt Schiessen zu Nyderlewss)
 Hälfte von Hanns vererbt an alle Kinder
 Hälfte von Barbara 1 vererbt an Pangretz, Magdalena
 also: Pangretz, Magdalena je 35%, Mertt, Niclass, Elizabeth je 10%
@@ -14701,7 +14700,7 @@ doch das davon mit gemainer Stat davon gelittenn werde Als von anndern burgers h
 obligavit libro Novo E folio 163
 				</ab>
 				<ab type="kommentar">
-Barbara ⚭ Wolfganng Kern --&gt; Anne (⚭ x Panhalm)
+Barbara ⚭ Wolfganng Kern --> Anne (⚭ x Panhalm)
 Barbara ⚭ Jheronimus Eczlinger
 haben Haus
 Barbara vererbt ihre Hälfte an Anne
@@ -15330,7 +15329,7 @@ doch das mit gemainer Stat Wienn davon gelitten werd als von anndern Burgers hew
 72 d.ⓟSumma lxxii d.
 				</ab>
 				<ab type="kommentar">
-Magdalena ⚭ ? Lengenlaher --&gt; Benedict Lengenlaher
+Magdalena ⚭ ? Lengenlaher --> Benedict Lengenlaher
 Magdalena ⚭ Pauln Tuchler
 Magdalena hat ein Haus
 vererbt es an Benedict, besitzt das Haus allein
@@ -15623,7 +15622,7 @@ ut littera sonat
 3 s. 10 d.ⓟSumma iii s. x d.
 				</ab>
 				<ab type="kommentar">
-Hanns Mayrhofer 1 der peck ⚭ ? (wohl eine Schwester von Hanns 3) --&gt; Hanns Mayrhofer 2
+Hanns Mayrhofer 1 der peck ⚭ ? (wohl eine Schwester von Hanns 3) --> Hanns Mayrhofer 2
 Katherina ⚭ Hanns 3 Furnstain der peckh, keine (überlebenden) Kinder
 Katherina und Hanns 3 haben ein Haus
 Hanns 3 vererbt seine Hälfte an Hanns 2, einen Verwandten von ihm (nicht sein Sohn)
@@ -15638,7 +15637,7 @@ Katherina und Hanns 2 verkaufen das Haus an Anndre Zartl mitburger unnd Margaret
 die vormalln Merttnn Bischof Auch mitburger zu Wienn Elichen gehabt 
 ⓗhaben Emphanngen Nucz unnd Gwer
 
-DB5037aⓄAins hawss 
+DB5041ⓄAins hawss 
 WiltwerkerstraßeⓁin der Wildwercherstrass 
 Ⓝzunagst Hannsen Stadler des Cramer haws an ainem tail 
 Ⓝunnd dem anndern zunagst Jorgen Lustlich des parchanter haws gelegen 
@@ -15721,8 +15720,10 @@ doch das mit gemainer Stat davon gelitten werd Als von anndern burgers hewsern d
 die vormals Niclasen Gruber den huter auch mitburger zu Wienn seligen Elichen gehabt 
 ⓗhat Emphanngen nucz unnd Gwer
 
-DB5220Ⓞzwayrer hewser 
+DB5044Ⓞ
+DB5045Ⓞzwayrer hewser 
 Hohe Brücke, WiltwerkerstraßeⓁnebeneinannder auf der Hohenpruckhn in der Wildwercherstrass 
+
 unnd das annder daran 
 Ⓝzunagst Petern Hartpeckhen des verber seligen haws gelegen 
 
@@ -16571,10 +16572,13 @@ habet nunc Hanns Rokhner und seine geschwisstriet
 ⒶGeorg Pegkl der verber Mitburger zu Wienn unnd Agatha sein hawsfraw 
 ⓗhaben Emphanngen nucz unnd Gwer
 
-DB5220Ⓞzwayrer hewser 
+zwayrer hewser 
 WiltwerkerstraßeⓁNeben Einannder in der Wildwercherstrass 
-Hohe BrückeⓁdas Ain zu Nagst der Hochenprukh 
-unnd das annder zunagst weilennt Petern Hartpeckhen des verber seligen hawss gelegen 
+DB5044Ⓞdas Ain 
+Hohe BrückeⓁzu Nagst der Hochenprukh 
+
+DB5045Ⓞunnd das annder 
+Ⓝzunagst weilennt Petern Hartpeckhen des verber seligen hawss gelegen 
 
 Als die von der Erbern Barbaren Wolfganngen Tobler auch mitburger zu Wienn hawsfrawn 
 500 tl.Ⓟumb funfhundert phunt phening lanndeswerung in Osterreich 
@@ -17973,7 +17977,7 @@ hat Nun Katharina obgedachtes Lissts witib yeczo Lienharten (Trunglings) hausfra
 Mertt Grein kursner auch mitburger daselbs unnd Margreth sein hawsfraw 
 ⓗhaben Emphanngen nucz unnd Gwer
 
-DB5037bⓄAins drittail hawss mit seiner zugehorung 
+DB5042ⓄAins drittail hawss mit seiner zugehorung 
 WiltwerkerstraßeⓁgannczes gelegen in der Wildwercherstrass 
 ⓃGegen hern Otten unnd Haymen Cappelln uber 
 SchiltergasseⓁmit dem vordern tail zunagst dem gesslein Als man in das Schiltergessl geet an ainer seitten 
@@ -19724,7 +19728,7 @@ Georg gunteshofer Elena uxor habent gwer folio 655
 ⒶHanns Albrecht der porttnwurcher Mitburger zu Wienn unnd Margreth sein hausfraw 
 ⓗhaben Emphanngen nuctz und gwer 
 
-(DB5426)ⓄAins hawss 
+DB5426ⓄAins hawss 
 Hoher MarktⓁgelegen am HochenMarkht 
 mit aim tag zunagst Wernhardin Tenngkhen haws 
 
@@ -21513,7 +21517,7 @@ ut patet libro isto folio 413
 ⒶMert Ohem vischer mitburger zu Wienn 
 ⓗhat emphanngen nutz und gwer
 
-DB5037bⓄAins drittail hawss mit seiner zugehorung 
+DB5042ⓄAins drittail hawss mit seiner zugehorung 
 Otto und Haimo, WiltwerkerstraßeⓁganntzes gelegenn in der Wildwercherstrass 
 gegen herrn Otten unnd Haymon Cappellen uber 
 mit dem vordern tail zunagst dem Gasslein uber als man in das Schilltergesslein geet an ainer seytten 
@@ -22179,7 +22183,7 @@ ut littera sonat
 ⒶPeter Stengl vischer Burger zu Wienn unnd Margreth sein hausfraw 
 ⓗhaben emphanngen nucz und gwer
 
-DB5220bⓄAins hawss 
+DB5045ⓄAins hawss 
 WiltwerkerstraßeⓁhie in der Wildwercherstrass 
 Ⓝmit aim tail zunagst Georgen Pegkl der verber und Agatha seiner hausfrauen 
 Ⓝund dem Anndern zenagst weilennt Petern Hartpekhen der verber hewsern gelegen 
@@ -22223,7 +22227,7 @@ ut littera sonat
 ⒶJorg Pegkl verber mitburger zu Wienn und Agatha sein hausfraw 
 ⓗhaben emphanngen nucz unnd gwer
 
-DB5220aⓄainer hawss 
+DB5044Ⓞainer hawss 
 WiltwerkerstraßeⓁgelegen hie in der Wildwercherstrass 
 Hohe BrückeⓁmit aim tail zunagst der Hohenprugk 
 Ⓝund dem andern zunagst Petern Stenngl vischer und Margrethen seiner hausfraun haws 
@@ -28873,7 +28877,7 @@ doch das mit der Stat Wienn davon geliten werde als von anndern Burgersheusern d
 7 s. 6 d.ⓟSumma vii s. vi d.
 				</ab>
 				<ab type="kommentar">
-Leonhart Noytz ⚭ Magdalena --&gt; Cristoff, Sebastian 
+Leonhart Noytz ⚭ Magdalena --> Cristoff, Sebastian 
 Leonhart vererbt je 1/3 seiner Hälfte an Magdalena, Cristoff, Sebastian 
 also: Magdalena 2/3, Cristoff 1/6, Sebastian 1/6
 Magdalena vererbt je 1/3 ihres Anteils an Cristoff, Sebastian, Veronica (⚭ Hanns Tscherte)
@@ -32110,7 +32114,7 @@ Bebstlicher Rechtn Licenciat Corher aller heiligen Thumbkirchen zw sannd Stephan
 Wiliwalld unnd Ulrich die Storch gebrueder 
 ⓗhaben emphangen nutz und gwer
 
-xxxxⓄaines Stal 
+Ⓞaines Stal 
 so ettwen ze Gotsleichnambs padstuben zw sand Pangretzen gehort hat 
 darauf yetzo ain Stokh gepawt ist 
 
@@ -34848,7 +34852,7 @@ Nunc Jacob Vinkhn
 ⒶWolfganng Kergl Mitburger zu Wienn unnd Agnes sein hawsfraw 
 ⓗhaben emphangen nutz unnd gwer
 
-Ⓞaines hawss 
+DB5319Ⓞaines hawss 
 HofgasseⓁhie ze Wienn im Hofgesslein am Ekh
 Ⓝmit ainem tail zunagst Mathesen Stainpergers haws gelegen 
 
@@ -38556,7 +38560,7 @@ ut littera sonat
 ⒶMargreth weilend Petern Stenngl des vischer Mitburgers zu Wienn saligen gelassne wittib 
 ⓗhat emphangen nutz und gwer
 
-DB5220bⓄaines hauss 
+DB5045Ⓞaines hauss 
 WiltwerkerstraßeⓁhie zw Wienn in der Willdwercherstrass
 mit ainem tail zunagst Georgen Pokhl 
 Ⓝund dem anndern zunagst Petern Hartpekhen der verber heusern gelegen 
@@ -41584,7 +41588,7 @@ obligavit libro E folio 309
 ⒶSteffan Schroter Sneider Mitburger zu Wienn und Anna sein hausfraw 
 ⓗhaben emphanngen nutz und gwer
 
-DB5037bⓄains drittail hawss mit aller seiner zugehorung 
+DB5042Ⓞains drittail hawss mit aller seiner zugehorung 
 WiltwerkerstraßeⓁganntzes in der Widlwercherstrass gelegen 
 Otto und HaimoⓁgegen weilent der Edeln gestrengen Ritter hern Otto und Haymon Cappellen uber 
 SchiltergasseⓁmit dem vordern tail zunagst dem Gesslein als man in das Schillttergesslein geet an ainer Seyten 
@@ -44536,7 +44540,7 @@ habet nunc Mertt Vicher schuester Barbara uxor
 ⒶThoman Hoflinger Sneider Mitburger zu Wienn 
 ⓗhat emphanngen nutz und Gwer
 
-DB5037cⓄAines drittl hawss das mit ziegeln gedekht ist 
+DB5043ⓄAines drittl hawss das mit ziegeln gedekht ist 
 SchiltergasseⓁgelegen im Schiltergessl 
 gegen weilent Bumbolden Mair haws uber
 mit ainem tail zunagst dem Gesslein gegen der Edeln Ritter herrn Otts und Haimen Cappellen uber 

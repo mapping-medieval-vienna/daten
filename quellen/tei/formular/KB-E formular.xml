@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt><title type="main">Kaufbuch E 1 1420-1437</title></titleStmt>
 			<publicationStmt>
-				<publisher />
+				<publisher></publisher>
 			</publicationStmt>
 			<seriesStmt><title>grundbuecher</title></seriesStmt>
 			<sourceDesc>
@@ -3635,12 +3634,13 @@ dieczeit baid ausrichter und volfurer des Gescheffts so Herman der Hestl seliger
 
 verkaufⒺhabent verkaufft 
 
-DB5220Ⓞzwai hewser 
+zwai hewser 
 die der benant Hestl hinder sein gelassen und zu verkauffen geschafft hat 
 
-ains 
+DB5044Ⓞains 
 Hohe Brücke, WiltwerkerstraßeⓁgelegen an der Hohenprugk in der Wiltwerherstrass 
-und das ander daran 
+
+DB5045Ⓞund das ander daran 
 Ⓝzenagst Micheln Sitichs des goltsmids haus 
 
 300 tl.Ⓟumb drewhundert phunt phenning 
@@ -7514,7 +7514,7 @@ habet purkrecht folio 216
 ⓋChunrat Ottinger dieczeit des Rats zu Wienn
 verkaufⒺhat verchaufft 
 
-(DB5423)Ⓞsein haus 
+DB5445?Ⓞsein haus 
 Hoher MarktⓁgelegen am Hohenmarkt 
 Ⓝzenagst der Wurffel zuhaus 
 
@@ -8991,7 +8991,7 @@ BognergasseⓁgelegen in der Pognerstrass zu Wienn
 DB0079Ⓝzenagst Merten des Gruber haus an aim tail 
 DB0081Ⓝund an dem andern zenagst Petern Leisser des pogner haus 
 
-Ⓞund darczu den hindern gemawrten stokch 
+DB0082Ⓞund darczu den hindern gemawrten stokch 
 hinter St. PankrazⓁder da stosst an daz gessel hinder sand Pangreczen 
 Ⓝund liegt zwischen Ulreichs des Weinsnabels 
 Ⓝund weilnt des goltloffels hewsen 
@@ -10396,12 +10396,12 @@ sicut littera sonat
 ⓋElzbetth weilent Michels des Margenpesser witib
 verkaufⒺhat verkaufft 
 
-DB5220ⓄIre zwai heuser 
+Ire zwai heuser 
 
-ains 
+DB5044Ⓞains 
 Hohe Brücke, WiltwerkerstraßeⓁgelegen bei der Hohenprugk in der Wildwercherstrass 
 
-und das ander zenegst demselben haus an aim tail 
+DB5045Ⓞund das ander zenegst demselben haus an aim tail 
 Ⓝund zenegst Mertten des frawnmesser haus an dem andern 
 
 die Si und Ir wirt miteinander gekaufft habent 
@@ -13892,7 +13892,7 @@ Actum an Mitichen vor Reminiscere in der vasten Anno domini Mº ccccº xxiiº
 schenkungⒺhat ubergegeben 
 sein Muter frawn Kathrein des benant seins vater witiben 
 
-(DB5478)Ⓞseinen halbentail des halben hauss 
+DB5478Ⓞseinen halbentail des halben hauss 
 das weilent ganczes Weikcharts des pheilsniczer gewesen ist 
 des gegentail des benanten haws die vorgenant Kathrey vormaln hat 
 
@@ -18206,7 +18206,7 @@ verkaufⒺhat verkaufft
 an stat Hannsen seines Sun den Er bey weilent Dorothen seiner hausfrawn seligen gehabt hat 
 der noch nicht vogtper ist fur den Er sich genczlich hat angenomen 
 
-DB5434Ⓞain kram 
+DB5461Ⓞain kram 
 DB5432Ⓝgelegen In der Slechtin zu haus 
 Hoher MarktⓁam Eck an dem Hohenmarkt 
 gegen dem Leinwathaus uber 
@@ -27126,7 +27126,7 @@ sicut littera sonat
 ⓋBruder Lienhart Pryor zu Maurbach des ordens von karthus und der Convent gemain daselbs
 verkaufⒺhabent verkaufft 
 
-(DB5412)ⓄIrn grossen gwantkeler 
+DB5412ⓄIrn grossen gwantkeler 
 Hoher MarktⓁgelegen under den Gwelbten lauben an dem Hohenmarkt 
 FischmarktⓁunder dem Schuchhaus inden an dem Ort gegen dem Vischmarkt uber 
 
@@ -34251,11 +34251,14 @@ und volfurer des Gescheffts so Peter der Sturm seliger getan hat
 verkaufⒺhabent verkaufft 
 von der grossen geltschuld wegen so dann der egenant Peter der Sturm zugelten hinder sein gelassen hat 
 
-DB5220Ⓞzway hewser 
+zway hewser 
 die desselb Sturms gewesen sind 
 Ⓝnebeneinander gelegen 
-Hohe Brücke, WiltwerkerstraßeⓁains zenagst der Hohenprugken in der Wiltberherstrass 
-und das ander daran 
+
+DB5044Ⓞains 
+Hohe Brücke, WiltwerkerstraßeⓁzenagst der Hohenprugken in der Wiltberherstrass 
+
+DB5045Ⓞund das ander daran 
 Ⓝzenagst weilent Sitichs des Goltsmids haws 
 
 240 tl.Ⓟumb iiᶜ und xl tl. Wienner d. 
@@ -36814,7 +36817,7 @@ ut littera sonat
 ⓋPaul Wurffl zu den zeiten Burgermaister und der Rat gemain der Stat ze Wienn 
 habent geben und verlihen 
 
-(DB5430)Ⓞdas haws 
+DB5430Ⓞdas haws 
 Hoher MarktⓁgelegen am Hohenmarkht 
 Ⓝzenagst weilent Merten des Scherer haus 
 

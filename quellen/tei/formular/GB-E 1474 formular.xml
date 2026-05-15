@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt><title type="main">Gewerbuch E 1474-1517</title></titleStmt>
-			<publicationStmt><publisher /></publicationStmt>
+			<publicationStmt><publisher></publisher></publicationStmt>
 			<seriesStmt><title>Mapping Medieval Vienna</title></seriesStmt>
 			<sourceDesc>
 				<bibl>
@@ -31,8 +30,8 @@ fol. I, II, 1-76, 78-388, 390-725
 			</head>
 
 <head>
-		<lb />Renovirt
-		<lb />1569
+		<lb/>Renovirt
+		<lb/>1569
 </head>
 
 			<div type="section-temporal">
@@ -4323,8 +4322,7 @@ darInn Ulrich Gundloch und Kristina sein hausfrau nucz und gwer geschriben stent
 			</div>
 
 			<div type="entry" n="0047-2">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶSusanna Karl des Rumpl seligen witib 
 ⓗhat emphangen nucz und gwer 
 
@@ -4348,8 +4346,7 @@ nach lautt Irer beweisten frewntschaft die im Statpuch zu Wienn geschriben stet
 			</div>
 
 			<div type="entry" n="0047-3">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶHanns Wienner burger zu Wienn 
 ⓗhat emphangen nucz und gwer 
 
@@ -4371,8 +4368,7 @@ nach lautt ains ubergab und aufsand briefs darumb ausgangen den der obgnant Wien
 			</div>
 
 			<div type="entry" n="0047-4">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶElspeth Hannsen Wienner burger zu Wienn hausfrau 
 ⓗhat emphangen nucz und gwer 
 
@@ -5175,8 +5171,7 @@ mit der Stat davon leiden als ander mitburger daselbs ungeverlich
 			</div>
 
 			<div type="entry" n="0057-1">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶMichel Regenstorff der kursner und Barbara sein hausfraw 
 ⓗhabnt emphangen nucz und gewer 
 
@@ -18276,8 +18271,7 @@ Actum an Mitichen vor Reminiscere in der vasten Anno etc. lxxx
 			</div>
 
 			<div type="entry" n="0204-2">
-				<note type="kommentar">A</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶAgnes Hannsen Herbart weilent gesessen vor Kernertor mitburger zu Wienn seligen witib 
 ⓗhat emphangen nucz und gwer 
 
@@ -23812,7 +23806,6 @@ Judenplatz, WiltwerkerstraßeⓁgelegen in der Wiltbergerstrass am Egkh als man 
 Ⓝund an dem andern zenagst frawn Annen Hannsen werrich seligen witib fhaws 
 
 und von Barbaren Kunraten Erweit des kursner seligen witib 
-hawss 
 250 UGⓅumb zwayhundert und funfftzigkh guldein hungrisch 
 Ⓔmit kauff an Si komen ist 
 
@@ -26017,8 +26010,7 @@ So der obgemelt Mathes Milltenberger vor darauf genomen hat
 uund mit xxiiii tl. d. abzulosenn sein 
 nach laut ains purkhrechtbriefs 
 
-1484-01-23 / Freitag vor Pauli Bekehrung (So 25.1.)Ⓓ
-Actum an Freitag vor Sannd Pauls tag conversionis Anno domini etc. lxxxiiiiº
+1483 !ⒹActum an Freitag vor Sannd Pauls tag conversionis Anno domini etc. lxxxiiiiº
 72 d.ⓟSumma lxxii d. 
 
 vendidit purkrecht libro folio 313
@@ -26071,7 +26063,7 @@ es sei bei der egenant seiner hausfrawn lebtegenn oder nach irem tod
 allen sein frumen damit zehanndln unnd zethun wie In verlusst 
 an der egenant seiner hausfraun und irer erben Irrung und hindernuss 
 
-1482-01-18 / Freitag vor Pauli Bekehrung (Fr 25.1.)ⒹActum an Freitag vor conversionis sancte Pauli Anno etc. lxxxiiº
+1483 !ⒹActum an Freitag vor conversionis sancte Pauli Anno etc. lxxxiiº
 72 d.ⓟSumma propter priorem lxxii d. 
 
 vendidit purkhrecht libro Novo E folio 113
@@ -30880,7 +30872,7 @@ ut littera
 				<ab type="formular">
 ⒶJorg Lustlich parhanntter mitburger daselbs und Margreth sein hawsfraw 
 
-DB5037bⓄAins drittails hawss mit seiner zugehorung 
+DB5042ⓄAins drittails hawss mit seiner zugehorung 
 WiltwerkerstraßeⓁgannczes gelegn In der Wildpergerstrass 
 Otto und HaimoⓁgegen herrn Otten und Haimen kappelln uber 
 SchiltergasseⓁmit dem vordern tail zunagst dem gesslein als man In daz Schiltergessl geet an ainer seittn 
@@ -34634,7 +34626,6 @@ habnn enphanngenn zuhanndenn desselbnn Irs goczhaws nucz unnd gewer
 Alter KohlmarktⓁgelegen hie zu Wienn am Allttnnkolmarkht 
 Ⓝzunagst Michlnn Schonner des goldsmid haws an aim tail 
 
-
 Als daz von dem Erbernn weisen Jorgnn Goltperger burger daselbs zu Wienn 
 mit lediger unnd freyer ubergab an Sy komen ist 
 
@@ -35227,7 +35218,7 @@ obtinuerunt Residuum isto libro folio 81
 ⒶJorg Symbelkircher der Ringkler mitburger zu Wienn 
 ⓗhat enphanngnn nucz unnd gewer 
 
-Ⓞains hawss 
+DB5137Ⓞains hawss 
 hinter St. PankrazⓁgelegnn hinder sannd Panngrecznn 
 Ⓝzunagst Erharttnn Eisnzieher haws an aim tail 
 
@@ -43145,7 +43136,7 @@ Iterum obligavit Ortner auf seinen tail libro Novo E folio 124
 ⒶJorg Rorer geswornner Rednner mitburger zu Wienn und Agnes sein hausfraw 
 habenn enpfanngen nucz unnd gwer 
 
-DB5058Ⓞaines gewanntkellers 
+DB5048Ⓞaines gewanntkellers 
 der etwann zu der Burgerspital vor Kernnertor hie gehort hat 
 
 neue Schranne, unter den TuchscherernⓁgelegn unndernn tuchscherern gegn der Statschrann uber 
@@ -46705,7 +46696,7 @@ annders tails
 
 habenn enpfanngen unnd sein nucz unnd gewer komenn 
 
-DB5037aⓄaines hawss 
+DB5041Ⓞaines hawss 
 WiltwerkerstraßeⓁgelegenn in der Wildbercherstrass 
 Ⓝzunagst weylennd Anndrenn Mischewffel seligenn haws on aim tail 
 unnd on dem annderenn zunagst Jorgenn Lustleich des parhanntter haws 
@@ -46731,7 +46722,7 @@ doch das Sy davon leiden als annder mitburger zu Wienn
 ⒶConnrat Pogner der appotegker burger zu Wienn unnd Magdalenn sein hausfraw 
 habenn enphanngenn nucz unnd gwer 
 
-DB5037aⓄaines haws 
+DB5041Ⓞaines haws 
 WiltwerkerstraßeⓁgelegen in der Wildberherstrass 
 Ⓝzunagst weilennd Anndreenn Mischewfflein seligen haws an aim tail 
 unnd an dem annderenn zunagst Jorgen Lustlich des Barhannter haws 
@@ -47590,8 +47581,7 @@ ut littera sonnat
 			</div>
 
 			<div type="entry" n="0512-2">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶNiclas Gwar kursner mitburger zu Wienn und Barbara sein hausfraw 
 habenn enpfanngenn nucz unnd gewer 
 
@@ -47623,8 +47613,7 @@ vendiderunt purkrecht novo E folio 104
 			</div>
 
 			<div type="entry" n="0512-3">
-				<note type="kommentar">A</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶNiclas Gwar kursner mitburger zu Wienn und Barbara sein hausfraw 
 ⓗhaben enpfanngn nucz und gwer 
 
@@ -48136,7 +48125,7 @@ ut littera sonnat
 ⒶHanns Reysinger keser mitburger zu Wienn unnd Anna sein hausfraw 
 habnn enphanngen nucz unnd gewer 
 
-(DB5441)Ⓞaines hawss 
+DB5441Ⓞaines hawss 
 Hoher Markt, KienmarktⓁgelegenn im gesslein als mon von dem Hochenmarkht an den Chienmarkht get 
 Ⓝzunagst dem Kursenhaws 
 

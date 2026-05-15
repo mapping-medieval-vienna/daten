@@ -1,12 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title type="main">Gewerbuch C 1420-1437</title>
 			</titleStmt>
 			<publicationStmt>
-				<publisher />
+				<publisher></publisher>
 			</publicationStmt>
 			<seriesStmt>
 				<title>Mapping Medieval Vienna</title>
@@ -147,7 +146,7 @@ E1: kaufen das Haus
 Dorothe + Jacob der Egprecht
 E2: er kauft das Burgrecht auf das Haus
 E3: vererbt das Burgrecht an Dorothe
---&gt; Dann hat Dorothe ein Burgrecht auf ihrem eigenen Haus ??
+--> Dann hat Dorothe ein Burgrecht auf ihrem eigenen Haus ??
 Dorothe + Hanns der Sybenwurger
 				</ab>
 			</div>
@@ -3810,7 +3809,7 @@ ut littera Judicis sonat
 ⒶMichel Margenpesser und Elspeth sein hausfraw 
 ⓗhabent gevangen nucz und gewer 
 
-DB5220aⓄains egk hauss 
+DB5044Ⓞains egk hauss 
 Hohe BrückeⓁin der Judengassen ze Wienn gelegen pey der Hohenprugk 
 
 ⓔdas vormalen Wolfen des Juden von der Newnstat gewesen 
@@ -4673,8 +4672,9 @@ als es dann ausgeczaigt ist nach Innhaltung der tailbrief daruber gegeben
 				<ab type="formular">
 ⒶMichel welser dieczeit der geistleichen frawn dacz sannd Jacoben ze Wienn schaffer 
 ⓗhat gevangen nucz und gewer 
-an stat der benant seiner frawn Albrechts des Ryemer und Margrethen seiner hausfrawn 
+an stat der benant seiner frawn 
 
+Albrechts des Ryemer und Margrethen seiner hausfrawn 
 DB5404Ⓞzwair tischstet 
 Hoher Markt, RiemhausⓁgelegen in dem Ryemhaus an dem Hohenmarkcht ze Wienn 
 
@@ -4904,7 +4904,7 @@ nach lautt der tailbrief daruber gegeben
 Roter TurmⓁgelegen bey dem Rotenturm ze Wienn 
 Ⓝzenegst Hans des pirpawmer haus 
 
-DB5434Ⓞund ainer kram 
+DB5461Ⓞund ainer kram 
 Hoher MarktⓁgelegen am Hohenmarkcht 
 DB5432Ⓝin der Slechtin haus 
 gegen der Alten flachstuben uber an dem Egk 
@@ -6609,7 +6609,7 @@ Actum an Mitichen nach Judica in der vasten Anno etc. ccccº xxvᵗº
 ⓗhat gevangen nucz und gewer 
 der hernach geschriben erbgut 
 
-(DB5475)ⓄItem ain ziegel haus 
+DB5475ⓄItem ain ziegel haus 
 PeurertorⓁgelegen mit aim tail an Pewrertor 
 Ⓝund mit dem andern zenegst Kristans des Swertfeger haus 
 
@@ -7785,7 +7785,7 @@ sicut liber Civitatis sonat
 ⓗhat gevangen nucz und gewer 
 an stat sein selbs und seiner geswistreid Andren und Margrethen die noch nicht vogtper ist 
 
-(DB5418)Ⓞains hauss 
+DB5418Ⓞains hauss 
 Hoher MarktⓁgelegen an dem Hohenmarkt in dem winkchel daman an der Stieg aufgeet 
 Ⓝzenegst des Helmleins haus 
 
@@ -7935,8 +7935,7 @@ Actum an Freitag nach dem Auffarttag Anno domini etc. xxviᵗº
 			</div>
 
 			<div type="entry" n="158-6">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶMargreth Merten des Scherer hausfraw 
 ⓗhat gevangen nucz und gewer 
 
@@ -7961,8 +7960,7 @@ Item die vorgenant Margret hat des egenant Wolfgangen Irs vettern tail hauss gek
 			</div>
 
 			<div type="entry" n="159-1">
-				<note type="kommentar">A</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶWolfgang Thomans des kramer an der prantstat seligen Sun 
 ⓗhat gevangen nucz und gewer 
 
@@ -8572,7 +8570,7 @@ sicut liber Civitatis sonat
 ⒶChunrat pfeilsniczer 
 ⓗhat gevangen nucz und gewer 
 
-(DB5479)Ⓞains hauss 
+DB5479Ⓞains hauss 
 unter den PfeilschnitzernⓁgelegen under den Pfeilsniczern 
 Ⓝzenegst Wolfharts haus des pfeilsniczer 
 
@@ -8667,7 +8665,7 @@ Actum an Freitag vor Exaltacionem sancte Crucis Anno etc. ccccº xxviᵗº
 ⒶOtt Weiss diezeit des Rats der Stat ze Wienn 
 ⓗhat gevangen nucz und gewer 
 
-DB5220ⓄMicheln des Margenpesser und Elzbethen seiner hausfrawn haus 
+DB5044ⓄMicheln des Margenpesser und Elzbethen seiner hausfrawn haus 
 WiltwerkerstraßeⓁgelegen in der Wildwercherstrass am Egk 
 Ⓝzenegst Mertten frawnmesser haus 
 
@@ -10301,11 +10299,11 @@ ut littera Judicis sonat
 
 zwair heuser 
 
-DB5220aⓄains 
+DB5044Ⓞains 
 Hohe Brücke, JudengasseⓁgelegen am Egk In der Judengassen bei der Hohenprugk 
 das vor maln Wolfen des Juden gewesen ist 
 
-DB5220bⓄund das ander 
+DB5045Ⓞund das ander 
 Ⓝgelegen zenegst dem yeczgenant haus an aim tail 
 Ⓝund zenegst des frawnmesser haus an dem andern 
 das weilent Jacobs von Weithra des Juden ist gewesen 
@@ -16342,7 +16340,9 @@ obtinuit folio 462 libro C
 ⒶHanns Scharffenperger der Elter 
 ⓗhat emphangen nucz und gewer 
 
-DB5037Ⓞains hauss 
+DB5041Ⓞ
+DB5042Ⓞ
+DB5043Ⓞains hauss 
 WiltwerkerstraßeⓁgelegen ze Wienn mit dem vordern tail gelegen in der Wildbergerstrass 
 Gässlein gegenüber Otto und HaimoⓁgelegen an ainem tail 
 zenagst dem Gesslein gegen hern Otten und Haymen kappellen uber 
@@ -17810,7 +17810,7 @@ Gregorii wachsgiesser
 und fraw Margret Hannsen des Scharffenperger hausfraw 
 ⓗhabent emphangen nucz und gewer 
 
-(DB5452)Ⓞains halben hauss 
+DB5452Ⓞains halben hauss 
 Hoher Markt, WürffelⓁgancz gelegen am Egk als man vom Hohenmarkt zu unser frawn get 
 und sesset an der Wurffl haus 
 
@@ -23454,7 +23454,9 @@ ist anerstorben und angeerbt
 ⒶHanns Scharffenperger dieczeit ainer des Rats der Stat ze Wienn 
 ⓗhat emphangen nucz und gwer 
 
-DB5037Ⓞains hawss 
+DB5041Ⓞ
+DB5042Ⓞ
+DB5043Ⓞains hawss 
 WiltwerkerstraßeⓁgelegen mit dem vordern tail in der Wiltwerherstrass zeWienn
 Ⓝan aim tail zenagst dem Gesslein gegen hern Otten und Haimen Cappellen uber
 Ⓝzenagst Jeronimen Moser des oler haws 

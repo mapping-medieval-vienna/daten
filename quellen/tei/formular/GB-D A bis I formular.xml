@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt><title type="main">Gewerbuch D 1438-1473</title></titleStmt>
-			<publicationStmt><publisher /></publicationStmt>
+			<publicationStmt><publisher></publisher></publicationStmt>
 			<seriesStmt><title>Mapping Medieval Vienna</title></seriesStmt>
 			<sourceDesc>
 				<bibl><title type="main">Gewerbuch D 1438-1473</title>
@@ -2155,7 +2154,7 @@ Larencz habet cedulam
 				</ab>
 				<ab type="kommentar">
 Anthoni Haiman ⚭ 
-Cristans Gurman ⚭ Anna --&gt; Margret
+Cristans Gurman ⚭ Anna --> Margret
 				</ab>
 			</div>
 
@@ -5942,8 +5941,7 @@ vendiderunt purkrecht ccc Ixiii folio
 			</div>
 
 			<div type="entry" n="0058-2">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶAnna Jacoben des Kagrer Munsser hausfrau 
 ⓗhat emphangen nucz und gewer 
 
@@ -9938,7 +9936,7 @@ und Anna Wolfgangen Galer des kursner hausfraw Ir swester
 Chunczen von Egkenfeld des vascziecher seligen tochter 
 ⓗhabent emphangen nucz und gewer 
 
-DB5037aⓄains haws 
+DB5041Ⓞains haws 
 des ain drittail ist das weilent der egenant Ir vater von Hannsen Scharffenperger gekaufft hat 
 
 WiltwerkerstraßeⓁgelegen in der Wildwercherstrass 
@@ -12321,12 +12319,11 @@ vendidit purkrecht folio 55
 			</div>
 
 			<div type="entry" n="0135-2">
-				<note type="kommentar">ab hier nur noch 1/3, nämlich Teil A</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶChuncz vasczieher und Anna sein hausfraw 
 ⓗhabent emphangen nucz und gewer 
 
-DB5037aⓄains drittail hawss 
+DB5041Ⓞains drittail hawss 
 SchiltergasseⓁgelegen in der Wildwerherstrass mit dem hindern tail 
 Ⓝund mit dem vordern in dem Schiltergesslein 
 DB1053Ⓝgegen Jacoben von Velach haws uber 
@@ -16662,8 +16659,7 @@ obligaverunt folio lxv
 			</div>
 
 			<div type="entry" n="0177-1">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶBarbara Oswalden des Puchperger hausfrau 
 die emalen Wolfgangen Mautter ze Nusdorff seligen auch eelichen gehabt hat 
 und Anna Jacoben des Kagrer Munsser hausfraw Ir swester 
@@ -18992,7 +18988,7 @@ so ist Im das haus genczlich wider ledig
 die emalen Linharten Unger den sneider auch elichen gehabt hat 
 ⓗhat emphangen nucz und gewer 
 
-DB5037bⓄAins halben hauss 
+DB5042ⓄAins halben hauss 
 WiltwerkerstraßeⓁganczes gelegen in der Wiltwherstrass 
 Otto und HaimoⓁgegen hern Otten und Haimen cappellen uber 
 Ⓝam egk zenagst dem gesslein an aim tail 
@@ -19147,11 +19143,12 @@ obtinuerunt folio 76
 ⒶDorothe Mertten Newnburger des verber hausfrau 
 ⓗhat emphangen nucz und gewer 
 
-DB5220Ⓞzwairer hewser nebeinander gelegen 
-ains 
+zwairer hewser nebeinander gelegen 
+
+DB5044Ⓞains 
 Hohe Brücke, WiltwerkerstraßeⓁzenagst der Hohenpruk in der Wiltwerherstrass 
 
-und das ander 
+DB5045Ⓞund das ander 
 Ⓝdaran 
 Ⓝzenagst Petern Hardpekchen des verber haus 
 
@@ -19237,7 +19234,7 @@ Actum an Mittichen vor Oculi in der vasten Anno etc. liiiº
 die emalen Linharten Unger auch elichen gehabt hat 
 ⓗhat empfangen nucz und gewer 
 
-DB5037bⓄAins halben hawss 
+DB5042ⓄAins halben hawss 
 WiltwerkerstraßeⓁganczes gelegen in der Wiltwerherstrass 
 Ⓝzenagst Chunczen des vasczieher haws
 
@@ -22346,7 +22343,7 @@ JudenplatzⓁgelegen am Judenplacz am egk als man an den hof get
 
 Ⓔdas In der edel herr her Wilhalm von Puchhaim zu aim auswechsl geben hat 
 
-??Ⓞgegen dem haws auf dem misst 
+Ⓞgegen dem haws auf dem misst 
 Ⓝzenagst hern Jorgen von Puchhaim haws gelegen 
 das Si dem egnant von Puchhaim zu aim widerwechsl gegeben habent 
 
@@ -23027,8 +23024,7 @@ obtinuit libro C folio 104
 			</div>
 
 			<div type="entry" n="0267-1">
-				<note type="kommentar">A</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶElspet Hannsen Een des floczer hausfrau 
 die emaln Dietrichen keser auch eelichen gehabt hat 
 und Wolfgang Mautter des benant Dietrich keser Enenkl 
@@ -23852,8 +23848,7 @@ Anno etc. lxviiᵐº
 				</head>
 
 			<div type="entry" n="0275-2">
-				<note type="kommentar">A</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶElspeth Hannsen Een des floczer hausfraw 
 die vormalen Dietreichen keser seligen auch elichen gehabt 
 ⓗhat emphangen nucz und gwer 
@@ -26016,8 +26011,7 @@ Actum an Phincztag vor allerheiligen tag Anno domini etc. lxxiiiº
 			</div>
 
 			<div type="entry" n="0297-5">
-				<note type="kommentar">A</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶHanns Herbartt vor Kernertor mitburger zu Wienn 
 ⓗhat emphangen nucz und gwer 
 
@@ -27465,7 +27459,7 @@ Actum feria sexta ante Reminiscere Anno etc. xxxviiiº
 ⒶHainreich Veigenprodl der Munnsser 
 ⓗhat emphangen nucz und gwer 
 
-(DB5125)Ⓞains hauss 
+DB5125Ⓞains hauss 
 HerzoghofⓁgelegen an des Herczogen hof ze Wienn 
 Ⓝzenagst sand Pangreczen kirichmaur
 
@@ -30078,7 +30072,7 @@ ut littera sonat
 ⒶHainreich Stumphwegk der sneider und Anna sein hausfraw 
 ⓗhabent emphangen nucz und gewer 
 
-DB5037cⓄains drittail hauss daz mit ziegeln gedekcht ist 
+DB5043Ⓞains drittail hauss daz mit ziegeln gedekcht ist 
 SchiltergasseⓁgelegen im Schiltergesslein 
 DB1053Ⓝgegen Jacobs von Velach haus uber 
 Ⓝzenagst Micheln des Tuchscherer haus an aim tail 
@@ -40920,7 +40914,7 @@ habet cedulam
 Chunczen des vascziecher seligen tochter 
 habent nucz und gewer emphangen 
 
-DB5037aⓄains hawss 
+DB5041Ⓞains hawss 
 des ain drittail ist 
 und das der egenant Chuncz vascziecher 
 der benant Barbaren und Annen auch seiner tochter Wolfgangs Galer des kursner hausfrawn geschafft hat 
@@ -54456,8 +54450,7 @@ ut littera sonat
 			</div>
 
 			<div type="entry" n="0592-4">
-				<note type="kommentar">B</note>
-			<ab type="formular">
+				<ab type="formular">
 ⒶJacob Kagrer der Munnsser mitburger zu Wienn 
 ⓗhat emphanngen nucz und geweer 
 

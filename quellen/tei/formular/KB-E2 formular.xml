@@ -1,12 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title type="main">Kaufbuch E2 1420-1437</title>
 			</titleStmt>
 			<publicationStmt>
-				<publisher />
+				<publisher></publisher>
 			</publicationStmt>
 			<seriesStmt>
 				<title>Mapping Medieval Vienna</title>
@@ -877,7 +876,6 @@ Actum an Freitag nach Gotsleichnams tag Anno etc. ccccº xxvᵗº
 				<ab type="formular">
 ⓋStephan Stainprecher der Gurtler und Kunigund sein hausfraw
 verkaufⒺhabent verkaufft 
-
 
 ⓄIr kram 
 die Sy miteinander mitgesambter had gekaufft habent 
@@ -3659,7 +3657,7 @@ ut littera sonat
 ⓋUlreich Gundloch zu den zeiten Burgermaister und Munsmaister und der Rate gemain der Stat ze Wienn
 verkaufⒺhabent verkaufft 
 
-DB5220bⓄain haus 
+DB5045Ⓞain haus 
 WiltwerkerstraßeⓁgelegen in der Wildwercherstrazz ze Wienn 
 Ⓝzenegst Mertten des frawnmesser haus 
 das weilent Jacobs von Weithra des Juden gewesen ist 
