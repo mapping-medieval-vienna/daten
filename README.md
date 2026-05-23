@@ -26,6 +26,8 @@ geplante Struktur:
 └── legacy/
 ```
 
+## Originale und abgeleitete Daten
+
 Aus den TEIs der zeilentreuen und Formularansicht werden die TEI-Dateien für die online-Edition erstellt, siehe 
 https://github.com/mapping-medieval-vienna/mapping-medieval-vienna.github.io/tree/main/data. 
 
